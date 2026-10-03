@@ -1,0 +1,5 @@
+app/
+.dart_tool/
+build/
+local.properties
+.env
