@@ -11,6 +11,12 @@ A small, AI-assisted portfolio project prepared for **Sadia Liaqat**. Demonstrat
 - Responsive constrained layout and Material 3.
 - Booking logic tests plus a widget smoke test.
 
+## Visual overview
+
+![Bookly booking and appointment overview](preview.jpg)
+
+Designed UI reconstruction based on the included Flutter source, with sample data. This is **not a device screenshot or proof of a successful Flutter build**. It represents service selection, booking details and appointment cancellation; colors and native widget rendering may vary on a device.
+
 ## Run (Flutter SDK required)
 
 Windows PowerShell, from this repository:
@@ -43,3 +49,4 @@ Tests are included. See `VERIFICATION.md` for what was actually executed in the 
 Separate repository interfaces from UI, add persistent demo storage, then implement authenticated Firebase booking transactions with security-rule tests after a real Firebase project is supplied.
 
 [Sadia’s LinkedIn](https://www.linkedin.com/in/sadia-liaqat-493998398/)
+
