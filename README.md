@@ -13,7 +13,7 @@ A small, AI-assisted portfolio project prepared for **Sadia Liaqat**. Demonstrat
 
 ## Visual overview
 
-![Bookly booking and appointment overview](preview.jpg)
+![Bookly booking and appointment overview](preview-v2.png)
 
 Designed UI reconstruction based on the included Flutter source, with sample data. This is **not a device screenshot or proof of a successful Flutter build**. It represents service selection, booking details and appointment cancellation; colors and native widget rendering may vary on a device.
 
